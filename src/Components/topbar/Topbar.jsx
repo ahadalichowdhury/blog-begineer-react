@@ -11,11 +11,11 @@ function Topbar() {
             </div>
             <div className="topCenter">
                 <ul className="topList">
-                    <li className="topListIcon">Home</li>
-                    <li className="topListIcon">About</li>
-                    <li className="topListIcon">Contact</li>
-                    <li className="topListIcon">Write</li>
-                    <li className="topListIcon">Log Out</li>
+                    <li className="topListIcon">HOME</li>
+                    <li className="topListIcon">ABOUT</li>
+                    <li className="topListIcon">CONTACT</li>
+                    <li className="topListIcon">WRITE</li>
+                    <li className="topListIcon">LOGOUT</li>
                 </ul>
             
             </div>

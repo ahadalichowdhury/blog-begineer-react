@@ -7,7 +7,7 @@ function Header() {
                 <span className="headerTitlesm">Blog</span>
 
             </div>
-            <img className="headerImg" src="https://wallpaperaccess.com/full/370162.jpg" alt="" />
+            <img className="headerImg" src="https://wallpaperaccess.com/full/340050.jpg" alt="" />
             
         </div>
     )
